@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ja">
   <head>
     <meta charset="utf-8" />
@@ -7,7 +6,7 @@
   </head>
   <body>
     <div id="form">
-      <p class="form-title">登録完了しました。</p>
+      <p class="form-title" style="text-align:center">登録完了しました。</p>
       <form action="post">
         <p class="submit" style="text-align:center"><button>TOPページへ</button>
      
