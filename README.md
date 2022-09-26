@@ -10,7 +10,5 @@
       <p class="form-title">登録完了しました。</p>
       <form action="post">
         <p class="submit" style="text-align:center"><button>TOPページへ</button>
-      </form>
-    </div>
-  </body>
-</html>
+     
+     
