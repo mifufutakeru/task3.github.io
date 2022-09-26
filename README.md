@@ -2,7 +2,7 @@
   <head>
     <meta charset="utf-8" />
     <title>formsample</title>
-    <link rel="stylesheet" type="text/css" href="登録完了.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="登録完了 .css" media="all" />
   </head>
   <body>
     <div id="form">
